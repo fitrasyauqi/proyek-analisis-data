@@ -11,6 +11,8 @@ Ini adalah proyek akhir dari Dicoding pada course "Belajar Analisis Data dengan 
 - README.txt: penjelasan tentang keseluruhan proyek
 ### Menjalankan Streamlit App
 Silahkan akses melalui link berikut  [Bike Sharing Dashboard](https://dashboardbikesharingfitra.streamlit.app/)
+
+atau melalui terminal
 ```
 streamlit run dashboard.py
 ```
