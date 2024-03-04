@@ -2,7 +2,7 @@
 ### Proyek Analisis Data
 Ini adalah proyek akhir dari Dicoding pada course "Belajar Analisis Data dengan Python".
 ### Deskripsi File
-- dashboard.py: file python dasboard
+- dashboard.py: file python dashboard
 - Proyek_Analisis_Data.ipynb: file notebook analisis data
 - day.csv: file dataset dari bike sharing
 - hour.csv: file dataset dari bike sharing
