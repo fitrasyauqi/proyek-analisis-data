@@ -7,10 +7,10 @@ Ini adalah proyek akhir dari Dicoding pada course "Belajar Analisis Data dengan 
 - day.csv: file dataset dari bike sharing
 - hour.csv: file dataset dari bike sharing
 - requirements.txt: file teks tentang kebutuhan library
-- url.txt: file teks tentang
+- url.txt: file teks tentang tautan dashboard
 - README.txt: penjelasan tentang keseluruhan proyek
 ### Menjalankan Streamlit App
-Silahkan akses melalui link berikut 
+Silahkan akses melalui link berikut  [Bike Sharing Dashboard](https://dashboardbikesharingfitra.streamlit.app/)
 ```
 streamlit run dashboard.py
 ```
