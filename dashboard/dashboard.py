@@ -6,7 +6,7 @@ import streamlit as st
 sns.set(style='dark')
 
 # Load dataset
-day_df = pd.read_csv("dashboard/main_data.csv")
+day_df = pd.read_csv("main_data.csv")
 
 # Mengubah key menjadi values keterangan
 day_df['mnth'] = day_df['mnth'].map({
